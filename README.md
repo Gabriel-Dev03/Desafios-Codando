@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu repositório de exercícios para turbinar a lógica de programação! 🚀
 
-Aqui você vai encontrar códigos simples, objetivos e práticos em Python e JavaScript. O foco é praticar, errar, aprender e evoluir! 💪
+Aqui você vai encontrar códigos simples, objetivos e práticos em Python. O foco é praticar, errar, aprender e evoluir! 💪
 
 ## 📌 Por que esse repositório?
 
