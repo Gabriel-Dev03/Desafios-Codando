@@ -12,7 +12,7 @@ Porque a prática é o que mais conta para se tornar um programador melhor. Não
 
 Meus-exercicios/python/
 ├── python/
-│   ├── listas/Desafios/
-│   ├── condição/Desafios/
-│   └── diversos/Desafios/
+│   ├── listas/
+│   ├── condicionais/Desafios/
+│   └── repeticoes/Desafios/
 └── README.md
