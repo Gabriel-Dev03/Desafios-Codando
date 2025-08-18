@@ -12,5 +12,6 @@ Porque a prática é o que mais conta para se tornar um programador melhor. Não
 
 meu-repositorio-logica/
 ├── python/
-│   ├── desafios diversos  
+│   
+|    ├── desafios diversos  
 └── README.md
