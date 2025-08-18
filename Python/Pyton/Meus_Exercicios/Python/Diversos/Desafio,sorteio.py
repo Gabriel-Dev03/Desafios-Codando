@@ -1,6 +1,6 @@
 print("-=" * 30)
 import random
-print(" O mesmo professor do Desafio.EscolhaRandom quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.")
+print(" O professor quer sortear a ordem de apresentação de trabalhos dos alunos. Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.")
 
 n1 = input("Digite seu nome: ")
 n2 = input("Digite seu nome: ")

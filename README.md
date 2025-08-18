@@ -10,9 +10,9 @@ Porque a prática é o que mais conta para se tornar um programador melhor. Não
 
 ## 📂 Estrutura do repositório
 
-meu-repositorio-logica/
+Meus-exercicios/python/
 ├── python/
-│   ├── listas/
-│   ├── condicionais/Desafios/
-│   └── repeticoes/Desafios/
+│   ├── listas/Desafios/
+│   ├── condição/Desafios/
+│   └── diversos/Desafios/
 └── README.md
