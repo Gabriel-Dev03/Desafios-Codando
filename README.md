@@ -24,7 +24,6 @@ meus-exercicios/
 ├── diversos/Desafios/
 └── README.md
 
-
 ---
 
 ## 🚀 Tecnologias Utilizadas
