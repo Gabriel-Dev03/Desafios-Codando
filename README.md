@@ -2,14 +2,14 @@
 
 ---
 
-## 📌 Por que esse repositório?
+# 📌 Por que esse repositório?
 
 A prática é o que faz a diferença para se tornar um programador melhor.  
 Não tem segredo: **é errando e testando que a gente aprende.**
 
 ---
 
-## 📂 Estrutura do Repositório
+# 📂 Estrutura do Repositório
 
 A organização dos arquivos segue a seguinte estrutura:
 
@@ -17,21 +17,16 @@ A organização dos arquivos segue a seguinte estrutura:
 meus-exercicios/
 ├── python/
 │   ├── listas/Desafios/
-│   ├── condicao/Desafios/
-│   ├── diversos/Desafios/
-│   └── repeticoes/Desafios/
-└── README.md
+│   ├── cond
 
-## 🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas
+🐍 Python 3
 
-# 🐍 Python 3
+📝 Markdown (para documentação)
 
-# 📝 Markdown (para documentação)
+🌐 Git & GitHub
 
-# 🌐 Git & GitHub
-
-## 🎯 Objetivo
-
+🎯 Objetivo
 Melhorar a lógica de programação
 
 Praticar conceitos fundamentais como:
@@ -46,13 +41,12 @@ Listas e Manipulação de Dados
 
 Funções
 
-## 🤝 Contribuição
-
+🤝 Contribuição
 Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!
 Toda contribuição é bem-vinda. 🚀
 
-## 🎁 Contato
-
+🎁 Contato
 👤 Autor: Gabriel
 
 📌 GitHub: Gabriel-Dev03
+
