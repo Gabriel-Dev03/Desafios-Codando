@@ -13,13 +13,12 @@ Não tem segredo: **é errando e testando que a gente aprende.**
 
 A organização dos arquivos segue a seguinte estrutura:
 
-## meus-exercicios/
-##├── python/
-##│   ├── listas/Desafios/
-##│   ├── condicao/Desafios/
-##│   ├── diversos/Desafios/
-##│   └── repeticoes/Desafios/
-##└── README.md
+ meus-exercicios/├── python/
+│   ├── listas/Desafios/
+│   ├── condicao/Desafios/
+│   ├── diversos/Desafios/
+│   └── repeticoes/Desafios/
+└── README.md
 ---
 
 # 🚀 Tecnologias Utilizadas
