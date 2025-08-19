@@ -22,15 +22,15 @@ meus-exercicios/
 │   └── repeticoes/Desafios/
 └── README.md
 
-🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas
 
-🐍 Python 3
+# 🐍 Python 3
 
-📝 Markdown (para documentação)
+# 📝 Markdown (para documentação)
 
-🌐 Git & GitHub
+# 🌐 Git & GitHub
 
-🎯 Objetivo
+## 🎯 Objetivo
 
 Melhorar a lógica de programação
 
@@ -46,12 +46,12 @@ Listas e Manipulação de Dados
 
 Funções
 
-🤝 Contribuição
+## 🤝 Contribuição
 
 Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!
 Toda contribuição é bem-vinda. 🚀
 
-🎁 Contato
+## 🎁 Contato
 
 👤 Autor: Gabriel
 
