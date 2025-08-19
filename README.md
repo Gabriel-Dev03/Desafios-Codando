@@ -22,6 +22,7 @@ meus-exercicios/
 ├── listas/Desafios/
 ├── condicao/Desafios/
 ├── diversos/Desafios/
+├── repetições/Desafios/
 └── README.md
 
 ---
