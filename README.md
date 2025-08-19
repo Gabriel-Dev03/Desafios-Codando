@@ -20,7 +20,7 @@ meus-exercicios/
 │   ├── diversos/Desafios/
 │   └── repeticoes/Desafios/
 └── README.md
-
+---
 
 🚀 Tecnologias Utilizadas
 
