@@ -13,7 +13,6 @@ Não tem segredo: **é errando e testando que a gente aprende.**
 
 A organização dos arquivos segue a seguinte estrutura:
 
-```text
 meus-exercicios/
 ├── python/
 │   ├── listas/Desafios/
@@ -23,3 +22,37 @@ meus-exercicios/
 └── README.md
 
 
+🚀 Tecnologias Utilizadas
+
+🐍 Python 3
+
+📝 Markdown (para documentação)
+
+🌐 Git & GitHub
+
+🎯 Objetivo
+
+Melhorar a lógica de programação
+
+Praticar conceitos fundamentais como:
+
+Variáveis e Tipos de Dados
+
+Estruturas Condicionais
+
+Estruturas de Repetição
+
+Listas e Manipulação de Dados
+
+Funções
+
+🤝 Contribuição
+
+Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!
+Toda contribuição é bem-vinda. 🚀
+
+🎁 Contato
+
+👤 Autor: Gabriel
+
+📌 GitHub: Gabriel-Dev03
