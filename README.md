@@ -13,7 +13,7 @@ Não tem segredo: **é errando e testando que a gente aprende.**
 
 A organização dos arquivos segue a seguinte estrutura:
 
-meus-exercicios/
+# meus-exercicios/
 ├── python/
 │   ├── listas/Desafios/
 │   ├── condicao/Desafios/
