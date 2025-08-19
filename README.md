@@ -1,8 +1,4 @@
-# 🧠 Exercícios de Lógica de Programação
-
-Bem-vindo ao meu repositório de exercícios para turbinar a **lógica de programação**! 🚀  
-Aqui você vai encontrar códigos simples, objetivos e práticos em **Python**.  
-O foco é **praticar, errar, aprender e evoluir**! 💪
+# 📘 Desafios — Codando
 
 ---
 
@@ -17,44 +13,46 @@ Não tem segredo: **é errando e testando que a gente aprende.**
 
 A organização dos arquivos segue a seguinte estrutura:
 
+```text
 meus-exercicios/
-└── python/
-├── listas/Desafios/
-├── condicao/Desafios/
-├── diversos/Desafios/
-├── repetições/Desafios/
+├── python/
+│   ├── listas/Desafios/
+│   ├── condicao/Desafios/
+│   ├── diversos/Desafios/
+│   └── repeticoes/Desafios/
 └── README.md
 
----
+🚀 Tecnologias Utilizadas
 
-## 🚀 Tecnologias Utilizadas
+🐍 Python 3
 
-- 🐍 **Python 3**
-- 📄 **Markdown (para documentação)**
-- 💻 **Git & GitHub**
+📝 Markdown (para documentação)
 
----
+🌐 Git & GitHub
 
-## 🎯 Objetivo
+🎯 Objetivo
 
-- Melhorar a **lógica de programação**  
-- Praticar conceitos fundamentais como:
-  - Variáveis e Tipos de Dados  
-  - Estruturas Condicionais  
-  - Estruturas de Repetição  
-  - Listas e Manipulação de Dados  
-  - Funções  
+Melhorar a lógica de programação
 
----
+Praticar conceitos fundamentais como:
 
-## 🤝 Contribuição
+Variáveis e Tipos de Dados
 
-Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!  
+Estruturas Condicionais
+
+Estruturas de Repetição
+
+Listas e Manipulação de Dados
+
+Funções
+
+🤝 Contribuição
+
+Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!
 Toda contribuição é bem-vinda. 🚀
 
----
+🎁 Contato
 
-## 📬 Contato
+👤 Autor: Gabriel
 
-👨‍💻 Autor: **Gabriel**  
-📌 GitHub: [Gabriel-Dev03](https://github.com/Gabriel-Dev03)
+📌 GitHub: Gabriel-Dev03
