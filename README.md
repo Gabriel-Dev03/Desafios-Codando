@@ -13,7 +13,7 @@ Não tem segredo: **é errando e testando que a gente aprende.**
 
 A organização dos arquivos segue a seguinte estrutura:
 
-# meus-exercicios/
+## meus-exercicios/
 ├── python/
 │   ├── listas/Desafios/
 │   ├── condicao/Desafios/
@@ -22,7 +22,7 @@ A organização dos arquivos segue a seguinte estrutura:
 └── README.md
 ---
 
-🚀 Tecnologias Utilizadas
+# 🚀 Tecnologias Utilizadas
 
 🐍 Python 3
 
@@ -46,12 +46,12 @@ Listas e Manipulação de Dados
 
 Funções
 
-🤝 Contribuição
+# 🤝 Contribuição
 
 Sinta-se à vontade para clonar o repositório, sugerir melhorias ou até adicionar novos desafios!
 Toda contribuição é bem-vinda. 🚀
 
-🎁 Contato
+# 🎁 Contato
 
 👤 Autor: Gabriel
 
