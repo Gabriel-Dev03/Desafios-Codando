@@ -17,7 +17,7 @@ meus-exercicios/
 ├── python/
 │   ├── listas/Desafios/
 │   ├── condicao/Desafios/
-│   ├── diversos/Desafios/
+│   ├── /Diversos/Desafios/
 │   └── repeticoes/Desafios/
 └── README.md
 
