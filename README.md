@@ -45,7 +45,6 @@ Estruturas de Repetição
 
 Listas e Manipulação de Dados
 
-Funções
 
 # 🤝 Contribuição
 
