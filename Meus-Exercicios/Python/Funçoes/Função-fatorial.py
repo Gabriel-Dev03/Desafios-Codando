@@ -14,4 +14,3 @@ def fatorial(num=1, show=False):
 titulo("FATORIAL")
 n = int(input("Digite um número para calcular o fatorial: "))
 print(f"\nO resultado é {fatorial(n, show=True)}")
-5
